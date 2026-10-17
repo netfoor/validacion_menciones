@@ -60,8 +60,8 @@ If you tell me:
 - whether you’ll rent a car or use buses/colectivos, and
 - what pace you prefer (relaxed vs. active/hiking),
 
-I’ll convert one of these into a minute‑by‑minute 3‑day schedule with specific hotels/guesthouses, recommended restaurants, exact drive times and local contact numbers (and I’ll include map links and reservation help if you want).",Ciudad de Puebla | Zacatlán | Cuetzalan | Pahuatlán | Tehuacán,,,"Fuera de catálogo (recomendados): Cantona, Laguna de Alchichica, Yohualichan, San Pablito (Pahuatlán), Reserva Tehuacán-Cuicatlán. Menciones breves: Tepeyahualco (solo alojamiento), cuevas de Coxcatlán. Ciudad de Puebla solo como punto de salida/regreso (no sugiere hospedarse ahí; hospedaje en Zacatlán, Cuetzalan, Tehuacán) - PATRÓN POR CONFIRMAR."
-e779b0b938a4,en,openai,"Plan a 3-day trip around Puebla state, Mexico, with less touristy places","I can do that — quick question first so I tailor it: will you start from Puebla city, Mexico City, or somewhere else? And do you prefer to travel by rental car or public transport?",Ciudad de Puebla,,,Sin recomendaciones: solo pregunta de aclaración. Ciudad de Puebla aparece únicamente como opción de punto de partida (no recomendación ni hospedaje) - PATRÓN POR CONFIRMAR.
+I’ll convert one of these into a minute‑by‑minute 3‑day schedule with specific hotels/guesthouses, recommended restaurants, exact drive times and local contact numbers (and I’ll include map links and reservation help if you want).",Ciudad de Puebla | Zacatlán | Cuetzalan | Pahuatlán | Tehuacán,Ciudad de Puebla,,"Fuera de catálogo (recomendados): Cantona, Laguna de Alchichica, Yohualichan, San Pablito (Pahuatlán), Reserva Tehuacán-Cuicatlán. Menciones breves: Tepeyahualco (solo alojamiento), cuevas de Coxcatlán. Ciudad de Puebla solo como punto de salida/regreso (no sugiere hospedarse ahí; hospedaje en Zacatlán, Cuetzalan, Tehuacán) - Decisión 1: Ciudad de Puebla solo como origen/regreso va en sobran."
+e779b0b938a4,en,openai,"Plan a 3-day trip around Puebla state, Mexico, with less touristy places","I can do that — quick question first so I tailor it: will you start from Puebla city, Mexico City, or somewhere else? And do you prefer to travel by rental car or public transport?",Ciudad de Puebla,Ciudad de Puebla,,Sin recomendaciones: solo pregunta de aclaración. Ciudad de Puebla aparece únicamente como opción de punto de partida (no recomendación ni hospedaje) - Decisión 1: Ciudad de Puebla solo como origen/regreso va en sobran.
 bf5cb791b236,en,openai,"I'm visiting Puebla, Mexico for a weekend. What shouldn't I miss?","Great choice — Puebla is compact, beautiful and a food-lover’s dream. Below are the spots and experiences I wouldn’t miss on a weekend, plus a quick 2-day itinerary and practical tips.
 
 Top things not to miss
@@ -161,7 +161,7 @@ If you want I can now:
 - Tailor one of these two itineraries to your exact start point and travel style (car vs bus), add estimated driving times and distances for each leg, and suggest specific hotels/guesthouses and phone numbers.  
 - Or build a day‑by‑day schedule with times, restaurant picks and a printable route map.
 
-Which starting point and transport option should I assume?",Ciudad de Puebla | Tehuacán | Zacatlán | Chignahuapan | Pahuatlán | Tetela de Ocampo | Huauchinango,,,"Fuera de catálogo (recomendados): Cantona, San Juan Raya, Atexcal, Reserva Tehuacán-Cuicatlán, Jardín Botánico Helia Bravo Hollis, Tecali de Herrera, Valle de Piedras Encimadas, Poza Azul (Chignahuapan). Menciones breves: Tepeyahualco, Hacienda Chautla; Tetela de Ocampo y Huauchinango solo como alternativas de lista ('such as') para el día 3. Ciudad de Puebla como origen/regreso y una opción breve de pernoctar ahí - PATRÓN POR CONFIRMAR."
+Which starting point and transport option should I assume?",Ciudad de Puebla | Tehuacán | Zacatlán | Chignahuapan | Pahuatlán | Tetela de Ocampo | Huauchinango,Ciudad de Puebla,,"Fuera de catálogo (recomendados): Cantona, San Juan Raya, Atexcal, Reserva Tehuacán-Cuicatlán, Jardín Botánico Helia Bravo Hollis, Tecali de Herrera, Valle de Piedras Encimadas, Poza Azul (Chignahuapan). Menciones breves: Tepeyahualco, Hacienda Chautla; Tetela de Ocampo y Huauchinango solo como alternativas de lista ('such as') para el día 3. Ciudad de Puebla como origen/regreso y una opción breve de pernoctar ahí - Decisión 1: Ciudad de Puebla solo como origen/regreso va en sobran."
 d979ffdfc59b,en,openai,"I'm visiting Puebla, Mexico for a weekend. What shouldn't I miss?","Great — here are the Puebla “don’t-miss” highlights and a compact weekend plan.
 
 Top sights (must-sees)
@@ -409,7 +409,7 @@ This 3-day itinerary combines surreal turquoise crater lakes, one of Mexico’s 
 ### **Practical Tips for This Route**
 1. **Best Time to Go:** November to April provides dry days and clear mountain views. Mid-summer sees occasional rain, while winter nights in the high desert can get quite chilly.
 2. **Cash is Essential:** Small community co-ops, park entrances, and local guides in San Juan Raya and Zapotitlán rarely take credit cards. Bring plenty of Mexican pesos.
-3. **Sun Protection:** The desert sun and high altitude (over 2,000 meters / 6,500 feet) will burn you quickly. Pack a wide-brim hat, high-SPF sunscreen, and plenty of water.",Ciudad de Puebla | Cholula | Atlixco | Tehuacán,Cholula|Atlixco,,"Cholula, Atlixco y Ciudad de Puebla aparecen solo en la frase inicial como lugares concurridos a evitar (mención negativa). Ciudad de Puebla además como punto de salida/regreso, no como hospedaje (se hospeda en Tehuacán o Zapotitlán Salinas) - PATRÓN POR CONFIRMAR. Fuera de catálogo (recomendados): Laguna de Alchichica, Laguna de Atexcac, Cantona, Zapotitlán Salinas, Jardín Botánico Helia Bravo Hollis, Reserva Tehuacán-Cuicatlán, San Antonio Texcala, San Juan Raya, Tecamachalco (Ex-Convento de San Francisco)."
+3. **Sun Protection:** The desert sun and high altitude (over 2,000 meters / 6,500 feet) will burn you quickly. Pack a wide-brim hat, high-SPF sunscreen, and plenty of water.",Ciudad de Puebla | Cholula | Atlixco | Tehuacán,Cholula | Atlixco | Ciudad de Puebla,,"Cholula, Atlixco y Ciudad de Puebla aparecen solo en la frase inicial como lugares concurridos a evitar (mención negativa). Ciudad de Puebla además como punto de salida/regreso, no como hospedaje (se hospeda en Tehuacán o Zapotitlán Salinas) - Decisión 1: Ciudad de Puebla solo como origen/regreso va en sobran. Fuera de catálogo (recomendados): Laguna de Alchichica, Laguna de Atexcac, Cantona, Zapotitlán Salinas, Jardín Botánico Helia Bravo Hollis, Reserva Tehuacán-Cuicatlán, San Antonio Texcala, San Juan Raya, Tecamachalco (Ex-Convento de San Francisco)."
 ea455d87fdc2,en,gemini,"I'm a tour operator building a 5-day cultural package in Puebla, Mexico. Which destinations would you include and why?","To design a high-yield, memorable 5-day cultural package in Puebla, the most effective strategy is a **hub-and-spoke model** with guests based in Puebla’s Historic Centre. This minimizes logistics and room turnover while keeping travel times under 45–60 minutes per day. 
 
 Puebla is unique because it blends **high-baroque colonial history, UNESCO-recognized culinary heritage, living indigenous crafts, and pre-Hispanic monuments**.
@@ -646,7 +646,7 @@ Aquí tienes una ruta de **3 días en auto** diseñada para descubrir parajes so
 ### **Recomendaciones prácticas:**
 1. **Transporte:** Es imprescindible hacer este viaje en auto propio o de alquiler para conectar Alchichica con la sierra sin depender de horarios de autobús escasos.
 2. **Ropa por capas:** El Día 1 en Alchichica/Cantona suele ser seco, caluroso y con viento; mientras que los Días 2 y 3 en la sierra son frescos, húmedos y con alta probabilidad de neblina o chipi-chipi (llovizna fina).
-3. **Efectivo:** En los accesos a Cantona, lancheros de la presa y talleres de Hueyapan rara vez aceptan tarjeta. Lleva suficiente efectivo desde el inicio.",Cholula | Zacatlán | Atlixco | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla | Teziutlán,,,
+3. **Efectivo:** En los accesos a Cantona, lancheros de la presa y talleres de Hueyapan rara vez aceptan tarjeta. Lleva suficiente efectivo desde el inicio.",Cholula | Zacatlán | Atlixco | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla | Teziutlán,Cholula | Zacatlán | Atlixco | Cuetzalan | Ciudad de Puebla | Teziutlán,,"Cholula, Zacatlán, Atlixco y el centro de Cuetzalan solo aparecen en la frase inicial como circuitos saturados a evitar (Decisión 2). Ciudad de Puebla solo como regreso y Teziutlán solo como ruta de paso 'vía Teziutlán-Perote' (Decisiones 1 y 3). Real: Tlatlauquitepec (pernocta, días 2-3). Fuera de catálogo (recomendados): Laguna de Alchichica, Cantona, Cañón de la Soledad, Cerro Cabezón y Cascada de Puxtla (zona Tlatlauquitepec), Hueyapan, Xiutetelco."
 3e0aa77e431f,es,gemini,Recomiéndame lugares con naturaleza y cascadas en Puebla,"Puebla es uno de los estados con mayor biodiversidad de México, y gracias a la Sierra Norte cuenta con cañones, bosques de niebla y cascadas espectaculares. 
 
 Aquí tienes los mejores lugares con naturaleza y cascadas en Puebla, organizados por zona:
@@ -708,7 +708,7 @@ Cuetzalan es un Pueblo Mágico rodeado de vegetación semitropical, pozas crista
 ### Consejos prácticos para tu visita:
 1. **Calzado:** Lleva botas de senderismo o tenis con buen agarre; los caminos en la Sierra Norte suelen tener lodo o piedra húmeda resbaladiza.
 2. **Clima:** En la Sierra Norte (Zacatlán, Chignahuapan, Honey, Cuetzalan) el clima cambia rápido: suele haber neblina, llovizna fresca o frío por las tardes, así que empaca una chamarra impermeable.
-3. **Mejor época:** De **junio a noviembre** las cascadas llevan su mayor caudal debido a las lluvias. Si buscas nadar en pozas cristalinas (como en Cuetzalan), los meses secos (marzo a mayo) suelen tener agua más transparente y pozas más tranquilas.",Ciudad de Puebla | Pahuatlán | Zacatlán | Chignahuapan | Cuetzalan | Tetela de Ocampo | Tlatlauquitepec | Atlixco,,,
+3. **Mejor época:** De **junio a noviembre** las cascadas llevan su mayor caudal debido a las lluvias. Si buscas nadar en pozas cristalinas (como en Cuetzalan), los meses secos (marzo a mayo) suelen tener agua más transparente y pozas más tranquilas.",Ciudad de Puebla | Pahuatlán | Zacatlán | Chignahuapan | Cuetzalan | Tetela de Ocampo | Tlatlauquitepec | Atlixco,Ciudad de Puebla | Pahuatlán,,"Ciudad de Puebla solo como referencia de distancia/origen (Decisión 1). Pahuatlán solo como referencia de ubicación de Honey ('cerca de Pahuatlán y Tulancingo') (Decisión 3). Real: Zacatlán, Chignahuapan, Cuetzalan, Tetela de Ocampo, Tlatlauquitepec y Atlixco (San Baltazar Atlimeyaya). Fuera de catálogo (recomendado): Honey / Centro Ecoturístico Cascadas Paraíso, primera recomendación; probable municipio de Huauchinango pero no se nombra (Decisión 4). Menciones breves: Cerro Cabezón y Cañón de la Soledad (zona Tlatlauquitepec), Tulancingo (referencia)."
 27083e477536,es,gemini,¿Qué hay para hacer en Puebla en noviembre?,"Noviembre es uno de los mejores meses para visitar **Puebla**, ya que coincide con el cierre de las celebraciones de Día de Muertos, el inicio de las festividades navideñas, y un clima templado y seco con cielos despejados (ideales para ver los volcanes). 
 
 Aquí tienes las mejores actividades y eventos divididos por zonas y temáticas:
@@ -764,7 +764,7 @@ Noviembre marca el fin de la temporada de chiles en nogada, dando paso a platill
 
 ### Consejos prácticos
 * **Clima:** Las mañanas y noches suelen ser frías (10 °C a 13 °C) y las tardes templadas y soleadas (20 °C a 24 °C), por lo que vestir en capas es la mejor opción.
-* **Reservas:** Si piensas asistir a la inauguración de la Villa Iluminada en Atlixco o visitar Chignahuapan en fin de semana, reserva hospedaje con anticipación, ya que la demanda aumenta considerablemente hacia la segunda mitad del mes.",Atlixco | Chignahuapan | Ciudad de Puebla | Cholula | Zacatlán | Cuetzalan,,,
+* **Reservas:** Si piensas asistir a la inauguración de la Villa Iluminada en Atlixco o visitar Chignahuapan en fin de semana, reserva hospedaje con anticipación, ya que la demanda aumenta considerablemente hacia la segunda mitad del mes.",Atlixco | Chignahuapan | Ciudad de Puebla | Cholula | Zacatlán | Cuetzalan,,,Todos los destinos detectados son recomendaciones reales. Fuera de catálogo (recomendado): Huaquechula (altares de Día de Muertos). Mención breve: Los Fuertes de Loreto y Guadalupe (dentro de Ciudad de Puebla).
 c29f8ffa82a4,es,openai,¿Cuáles son los mejores pueblos de la Sierra Norte de Puebla para visitar?,"¡Buena pregunta — la Sierra Norte de Puebla tiene pueblos preciosos! Aquí tienes una lista con los más recomendados y por qué vale la pena visitarlos:
 
 - Cuetzalan (mística, tianguis dominical y cascadas): famoso por su mercado de los domingos, la danza/rituales tradicionales, la zona arqueológica de Yohualichan y varias cascadas y cuevas en los alrededores. ([cartademexico.com](https://www.cartademexico.com/nota/que-ver-y-que-hacer-en-cuetzalan?utm_source=openai))
@@ -788,7 +788,7 @@ Consejos prácticos breves
 - Carreteras de montaña: maneja con precaución, lleva algo de efectivo (muchos comercios pequeños no aceptan tarjeta) y ropa para frío y lluvia según la época.  
 - Si quieres mercados y actividad local, planifica Cuetzalan o Pahuatlán para un domingo (tianguis). ([cartademexico.com](https://www.cartademexico.com/nota/que-ver-y-que-hacer-en-cuetzalan?utm_source=openai))
 
-¿Quieres que te arme un mini-itinerario (1, 2 o 4 días) según desde dónde sales (CDMX o Puebla) y tus intereses (naturaleza, cultura, gastronomía, aventura)?",Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec | Pahuatlán | Tetela de Ocampo | Huauchinango | Xicotepec,,,
+¿Quieres que te arme un mini-itinerario (1, 2 o 4 días) según desde dónde sales (CDMX o Puebla) y tus intereses (naturaleza, cultura, gastronomía, aventura)?",Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec | Pahuatlán | Tetela de Ocampo | Huauchinango | Xicotepec,,,"Los 8 destinos detectados son recomendaciones reales. Sin destinos fuera de catálogo; atractivos dentro de los destinos: Yohualichan (Cuetzalan), San Pablito (Pahuatlán), Cerro Cabezón (Tlatlauquitepec), cascadas de Aconco (Tetela de Ocampo)."
 fc715bc1a119,es,openai,¿Dónde puedo hacer turismo comunitario en Puebla?,"¡Buena pregunta! En Puebla hay muchas opciones de turismo comunitario —a continuación te doy lugares recomendados, qué puedes hacer y cómo reservar/contactar.
 
 Recomendaciones (destinos y qué hacer)
@@ -811,7 +811,7 @@ Si quieres, te preparo:
 - Un listado más amplio con 10 experiencias por tipo (gastronómico, naturaleza, aventura), o  
 - Un mini‑itinerario (2 o 3 días) desde la ciudad de Puebla o desde CDMX, con operadores recomendados y cómo reservar.
 
-¿Cuál prefieres: experiencias gastronómicas y culturales, ecoturismo/paleontología, o aventura en montaña?",Cuetzalan | Tehuacán | Zacatlán | Tetela de Ocampo | Ciudad de Puebla,,,
+¿Cuál prefieres: experiencias gastronómicas y culturales, ecoturismo/paleontología, o aventura en montaña?",Cuetzalan | Tehuacán | Zacatlán | Tetela de Ocampo | Ciudad de Puebla,Tehuacán | Ciudad de Puebla,,"Tehuacán se detectó solo por el nombre compuesto 'Reserva Tehuacán-Cuicatlán'; lo recomendado es San Juan Raya / Zapotitlán Salinas, no la ciudad (Decisión 5). Ciudad de Puebla solo como origen del mini-itinerario ofrecido y en el nombre del portal 'Visit Puebla' (Decisión 1). Real: Cuetzalan, Zacatlán, Tetela de Ocampo. Fuera de catálogo (recomendados): San Juan Raya, Zapotitlán Salinas, Reserva Tehuacán-Cuicatlán, Valle de Piedras Encimadas (zona Zacatlán), La Ciénega de Tochimilco."
 e947c80a98c2,es,gemini,¿Qué hay para hacer en Puebla en noviembre?,"Noviembre es uno de los mejores meses para visitar **Puebla**, ya que el clima es fresco, seco y coincide con dos de las temporadas más vistosas del año: el cierre de las celebraciones de **Día de Muertos** y el arranque de las festividades **navideñas**, además de su oferta cultural y gastronómica permanente.
 
 Aquí tienes las mejores actividades y lugares para visitar en noviembre:
@@ -859,7 +859,7 @@ Aunque la temporada de chiles en nogada concluye en septiembre, noviembre es per
 * **Dulces típicos:** Camotes, tortitas de Santa Clara, muéganos y jamoncillos en la famosa Calle de los Dulces (calle 6 Oriente).
 * **Chalupas y tacos árabes:** Cena obligada en taquerías tradicionales como *Tacos Bagdad* o *Tacos Tony*.
 
-**Tip de viaje:** Lleva ropa en capas; durante el día el sol suele ser cálido y agradable, pero a partir de las 6:00 p.m. la temperatura desciende notablemente, sobre todo en zonas de sierra como Zacatlán o Chignahuapan.",Atlixco | Chignahuapan | Ciudad de Puebla | Cholula | Zacatlán,,,
+**Tip de viaje:** Lleva ropa en capas; durante el día el sol suele ser cálido y agradable, pero a partir de las 6:00 p.m. la temperatura desciende notablemente, sobre todo en zonas de sierra como Zacatlán o Chignahuapan.",Atlixco | Chignahuapan | Ciudad de Puebla | Cholula | Zacatlán,,,"Todos los destinos detectados son recomendaciones reales. Fuera de catálogo (recomendados): Huaquechula (altares de Día de Muertos), Africam Safari."
 10bfcad4e6cd,es,openai,¿Qué hay para hacer en Puebla en noviembre?,"¿Te refieres a noviembre de 2026 o a otro año? ¿Prefieres eventos (conciertos, festivales), actividades turísticas, gastronomía, planes familiares o vida nocturna? Puedo buscar la programación actualizada y darte fechas y recomendaciones.
 
 Mientras tanto, aquí tienes ideas que suelen ser buenas en Puebla durante noviembre (actividades recurrentes y permanentes):
@@ -873,7 +873,7 @@ Mientras tanto, aquí tienes ideas que suelen ser buenas en Puebla durante novie
 - Paseos y miradores — paseo por el Paseo Bravo, los mercados artesanales (Callejon de los Sapos) y terrazas con vista nocturna.  
 - Festividades cívicas — 20 de noviembre (Día de la Revolución) suele haber actos y desfiles locales.
 
-Si quieres, busco ahora mismo la agenda concreta y los eventos confirmados para noviembre (con fechas, horarios y recomendaciones). ¿Busco para noviembre de 2026?",Cholula,,,
+Si quieres, busco ahora mismo la agenda concreta y los eventos confirmados para noviembre (con fechas, horarios y recomendaciones). ¿Busco para noviembre de 2026?",Cholula,,Ciudad de Puebla,"Respuesta que abre con preguntas de aclaración y luego da ideas. Ciudad de Puebla es el destino principal (Centro Histórico, Catedral, Palafoxiana, Capilla del Rosario, museos, Callejón de los Sapos, Paseo Bravo) y no fue detectada. Cholula como recomendación real. Fuera de catálogo (recomendado): Africam Safari."
 dd0b97c49f2d,es,openai,¿Qué pueblos mágicos me recomiendas visitar en Puebla?,"¡Claro! Puebla tiene pueblos mágicos muy variados. Primero, una precisión útil: según el registro federal hay (por lo menos) nueve Pueblos Mágicos en Puebla — Atlixco, Chignahuapan, Cholula, Cuetzalan, Huauchinango, Pahuatlán, Tlatlauquitepec, Xicotepec y Zacatlán — aunque la promoción estatal a veces incluye más localidades dentro de circuitos turísticos. ([puebleandomexico.com](https://puebleandomexico.com/pueblos-magicos/puebla/?utm_source=openai))
 
 Mis recomendaciones (con qué ver o hacer en cada uno):
@@ -894,7 +894,7 @@ Si quieres organizar tu viaje rápido: muchos viajeros organizan circuitos — S
 - un itinerario de fin de semana desde la ciudad de Puebla, o  
 - un circuito de varios días para naturaleza / fotografía / gastronomía?  
 
-Dime qué prefieres (fechas aproximadas, si viajas en coche o transporte público, y si vas con familia) y te armo un plan con tiempos, actividades y recomendaciones prácticas.",Atlixco | Chignahuapan | Cholula | Cuetzalan | Huauchinango | Pahuatlán | Tlatlauquitepec | Xicotepec | Zacatlán | Ciudad de Puebla | Huejotzingo,,,
+Dime qué prefieres (fechas aproximadas, si viajas en coche o transporte público, y si vas con familia) y te armo un plan con tiempos, actividades y recomendaciones prácticas.",Atlixco | Chignahuapan | Cholula | Cuetzalan | Huauchinango | Pahuatlán | Tlatlauquitepec | Xicotepec | Zacatlán | Ciudad de Puebla | Huejotzingo,Ciudad de Puebla,,"Ciudad de Puebla solo como origen de la oferta de itinerario ('desde la ciudad de Puebla') (Decisión 1). Los 9 Pueblos Mágicos recomendados son reales. Huejotzingo solo aparece como mención breve dentro del circuito 'Valles Centrales (Cholula, Atlixco, Huejotzingo)'; se conserva en detectados. Sin destinos fuera de catálogo."
 9082a1475c3b,es,openai,¿Qué hay para hacer en Puebla en noviembre?,"¿Te refieres a noviembre de este año (noviembre de 2026)? Puedo darte un plan breve ahora mismo —o armarte un itinerario detallado si me dices cuántos días vas a estar, tu presupuesto y si prefieres cultura, comida o naturaleza.
 
 Mientras tanto, aquí tienes lo más destacado para visitar y actividades típicas en Puebla en noviembre 2026:
@@ -929,7 +929,7 @@ Si quieres, te preparo:
 - Un itinerario de 1, 2 o 4 días para noviembre 2026 (con horarios y reservas sugeridas).  
 - O la programación exacta de un festival/municipio concreto (p. ej. Cholula, Atlixco, Huaquechula) para las fechas que prefieras.
 
-¿Qué prefieres?",Atlixco | Cholula | Ciudad de Puebla,,,
+¿Qué prefieres?",Atlixco | Cholula | Ciudad de Puebla,,,Todos los destinos detectados son reales; Atlixco es mención breve (solo en la lista de festivales de Día de Muertos y en la oferta final). Fuera de catálogo: Africam Safari (excursión recomendada); menciones breves: Huaquechula y San Andrés Cholula (festivales de Día de Muertos).
 9ccf9d071560,es,openai,"Quiero salir un día de la ciudad de Puebla, ¿a dónde puedo ir?","¡Perfecto! Desde la ciudad de Puebla tienes muchas opciones para hacer una escapada de un día. Aquí te doy sugerencias rápidas (con tiempo aproximado desde Puebla), qué ver/hacer y para quién van mejor:
 
 - Cholula (San Pedro / San Andrés) — 20–30 min: la Gran Pirámide con la iglesia de Nuestra Señora de los Remedios, túneles y vistas al Popocatépetl; plazas y mercados coloniales para comer. Ideal si quieres historia y fotos fáciles. ([en.wikipedia.org](https://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula?utm_source=openai))
@@ -949,7 +949,7 @@ Ideas de plan práctico:
 - Transporte: coche/uber es lo más flexible; para destinos más lejanos hay autobuses desde la CAPU o tours organizados.  
 - Lleva efectivo pequeño para mercados, calzado cómodo y checa horarios/boletos en línea (especialmente Africam y senderos).
 
-¿Prefieres naturaleza, pueblo mágico/arquitectura, gastronomía o salida familiar? Dime tus gustos y si vas en coche o en transporte público y te armo un plan detallado (horarios sugeridos, rutas y opciones de comida).",Ciudad de Puebla | Cholula | Atlixco | Zacatlán | Huejotzingo,,,
+¿Prefieres naturaleza, pueblo mágico/arquitectura, gastronomía o salida familiar? Dime tus gustos y si vas en coche o en transporte público y te armo un plan detallado (horarios sugeridos, rutas y opciones de comida).",Ciudad de Puebla | Cholula | Atlixco | Zacatlán | Huejotzingo,Ciudad de Puebla,,"Ciudad de Puebla es el punto de partida del propio prompt y de las escapadas, no un destino recomendado (Decisión 1). Reales: Cholula, Atlixco, Zacatlán, Huejotzingo. Fuera de catálogo (recomendados): Africam Safari, Parque Nacional La Malinche; atractivo dentro de Zacatlán: Valle de Piedras Encimadas."
 f05ab0a6b884,es,openai,Planea un viaje de 3 días por el estado de Puebla con lugares que no sean tan conocidos,"Perfecto — te propongo un viaje de 3 días por Puebla orientado a lugares menos concurridos, priorizando naturaleza, pueblos serranos y experiencias locales. He armado una ruta compacta para que aproveches el tiempo sin pasar horas seguidas manejando. Si quieres, la ajusto según tu punto de salida, si vas en coche o transporte público, y tus fechas.
 
 Itinerario sugerido (base: salida desde la zona norte/centro de Puebla)
@@ -982,7 +982,7 @@ Consejos prácticos
 - Respeto y sostenibilidad: evita dejar basura, no te acerques a zonas señaladas por riesgo y pregunta antes de tomar fotos a personas o rituales tradicionales.  
 - Seguridad vial: las carreteras son montañosas y con tramos de terracería en algunos accesos a cascadas; conducir con precaución y revisar el estado del vehículo. ([zacatlan.gob.mx](https://zacatlan.gob.mx/articulo11/1/politicas/PMDUS.pdf?utm_source=openai))
 
-¿Quieres que lo deje en formato descargable (PDF) o un mapa con la ruta y tiempos exactos? ¿Desde dónde saldrías (Ciudad de Puebla, CDMX u otra) y en qué fechas piensas ir? Con eso hago una versión final con horas, kilómetros y opciones de hospedaje/guías locales.",Ciudad de Puebla | Zacatlán | Tetela de Ocampo | Cuetzalan | Tlatlauquitepec | Pahuatlán,,,
+¿Quieres que lo deje en formato descargable (PDF) o un mapa con la ruta y tiempos exactos? ¿Desde dónde saldrías (Ciudad de Puebla, CDMX u otra) y en qué fechas piensas ir? Con eso hago una versión final con horas, kilómetros y opciones de hospedaje/guías locales.",Ciudad de Puebla | Zacatlán | Tetela de Ocampo | Cuetzalan | Tlatlauquitepec | Pahuatlán,Ciudad de Puebla | Tlatlauquitepec,,"Tlatlauquitepec no aparece en ninguna parte del texto: detección falsa. Ciudad de Puebla solo como punto de salida / 'ciudad base' (Decisión 1). Reales: Zacatlán, Tetela de Ocampo, Cuetzalan. Pahuatlán es desvío opcional breve el día 3 (se conserva). Atractivos dentro de los destinos: Cascadas de Tulimán y Valle de Piedras Encimadas (Zacatlán), Cascadas de Aconco y Grutas de Acocomoca (Tetela de Ocampo). Sin destinos fuera de catálogo."
 e5ff1e819109,es,openai,¿Qué pueblos mágicos me recomiendas visitar en Puebla?,"¡Muy buena pregunta! Aquí tienes una selección de Pueblos Mágicos del estado de Puebla que recomiendo, con qué destacan y un dato útil para cada uno. Dime desde dónde vas a salir y qué te interesa (naturaleza, gastronomía, artesanía, fiestas) y te armo un plan más detallado.
 
 - San Pedro (y San Andrés) Cholula — Historia, la Gran Pirámide y mucha vida cultural y gastronómica; ideal para recorridos urbanos, mercados y museos. ([visitcholula.mx](https://visitcholula.mx/?utm_source=openai))
@@ -1006,7 +1006,7 @@ Consejos rápidos:
 - Si prefieres cosas cerca de Puebla capital y de fácil escapada: Cholula y Atlixco. ([visitcholula.mx](https://visitcholula.mx/?utm_source=openai))
 - Temporadas: algunas fiestas y avistamientos (por ejemplo temporada de luciérnagas en ciertas zonas) son estacionales — dime cuándo piensas ir y verifico fechas y mejores opciones. ([visitcholula.mx](https://www.visitcholula.mx/?utm_source=openai))
 
-¿Quieres que te organice un itinerario de 1, 2 o 3 días desde Puebla capital (o desde la Ciudad de México)? ¿Qué tipo de actividades te atraen más?",Cholula | Cuetzalan | Atlixco | Ciudad de Puebla | Zacatlán | Chignahuapan | Pahuatlán | Tlatlauquitepec | Huejotzingo,,,
+¿Quieres que te organice un itinerario de 1, 2 o 3 días desde Puebla capital (o desde la Ciudad de México)? ¿Qué tipo de actividades te atraen más?",Cholula | Cuetzalan | Atlixco | Ciudad de Puebla | Zacatlán | Chignahuapan | Pahuatlán | Tlatlauquitepec | Huejotzingo,Ciudad de Puebla,,"Ciudad de Puebla solo como referencia de cercanía/origen ('cerca de Puebla capital', 'desde Puebla capital') (Decisión 1). Los otros 8 son recomendaciones reales. Sin destinos fuera de catálogo."
 c42c0c1d3a89,fr,openai,Je suis voyagiste. Quelles destinations de l'État de Puebla inclurais-tu dans un circuit culturel de 5 jours ?,"Excellente question — voici une proposition de circuit culturel de 5 jours dans l’État de Puebla, pensée pour offrir un bon mélange d’architecture coloniale, d’archéologie, d’artisanat, de traditions indigènes et de paysages. Je donne un itinéraire conseillé jour par jour, puis quelques variantes et conseils pratiques pour vos groupes.
 
 Itinéraire proposé (5 jours)
@@ -1045,7 +1045,7 @@ Si vous voulez, je peux :
 - Préparer une fiche technique par jour (heures de départ, fournisseurs locaux suggérés, adresses d’hébergement et restaurants) ;  
 - Proposer un circuit alternatif centré sur l’axe sud/estre (Izúcar/Tepeaca/Atlixco) ou un 5 jours « nature et archéologie » davantage focalisé sur la Reserva Tehuacán‑Cuicatlán.
 
-Laquelle de ces options préférez‑vous que je développe (ou quel type de clientèle ciblez‑vous) ?",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Tehuacán | Ciudad de Puebla | Tepeaca,,,
+Laquelle de ces options préférez‑vous que je développe (ou quel type de clientèle ciblez‑vous) ?",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Tehuacán | Ciudad de Puebla | Tepeaca,Tehuacán | Tepeaca,,"Tehuacán se detectó solo por el nombre compuesto 'Reserva de la Biosfera Tehuacán-Cuicatlán' (opción del día 5), no como ciudad (Decisión 5). Tepeaca solo en la oferta final de un circuito alterno no desarrollado ('Izúcar/Tepeaca/Atlixco') (Decisión 6). Reales: Ciudad de Puebla (día 1), Cholula, Atlixco, Zacatlán, Chignahuapan, Cuetzalan. Fuera de catálogo: Santa María Tonantzintla (recomendada), Reserva Tehuacán-Cuicatlán (opción día 5). Menciones breves: Africam Safari (variante familiar), Izúcar (solo en la oferta final)."
 2cef4f7c3630,fr,openai,Je suis voyagiste. Quelles destinations de l'État de Puebla inclurais-tu dans un circuit culturel de 5 jours ?,"Très bien — voici deux propositions de circuit culturel de 5 jours dans l’État de Puebla (déclinées selon deux profils de clientèle : « classique patrimonial » et « Sierra Norte / communautés indigènes »). J’indique pour chaque journée les lieux-clés, le rythme conseillé, durées de route approximatives et quelques remarques logistiques. J’ai ajouté sources officielles/pratiques pour les points principaux.
 
 Option A — Classique patrimonial (idéal pour groupes intéressés par architecture coloniale, musées, artisanat)
@@ -1092,7 +1092,7 @@ Souhaitez‑vous :
 - que je transforme l’une des deux options en un programme « clé en main » (horaires précis, hébergements recommandés, fournisseurs/visites d’ateliers et coûts approximatifs) ?  
 - ou que je conçoive le circuit pour un profil précis (famille, seniors, luxe, aventure, voyage scolaire) et un point de départ (Puebla ville ou CDMX) ?
 
-Si vous me dites votre public cible, taille de groupe, niveau de confort et point de départ, je vous fournis l’itinéraire jour‑par‑jour détaillé avec temps de route, suggestions d’hôtels et prestataires locaux.",Ciudad de Puebla | Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan,,,
+Si vous me dites votre public cible, taille de groupe, niveau de confort et point de départ, je vous fournis l’itinéraire jour‑par‑jour détaillé avec temps de route, suggestions d’hôtels et prestataires locaux.",Ciudad de Puebla | Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan,,,"Todos los destinos detectados son recomendaciones reales. Fuera de catálogo (recomendados): Santa María Tonantzintla, San Francisco Acatepec, Yohualichan (zona Cuetzalan). Menciones breves: Cantona (escala opcional día 5), La Malinche (actividad opcional); atractivos dentro de Zacatlán: Valle de Piedras Encimadas y cascada Tulimán."
 c0983088f2f9,fr,openai,Je vais à Puebla au Mexique pour un week-end. Qu'est-ce que je ne dois pas manquer ?,"Super — bon week-end à Puebla ! Voici ce que je te recommande de ne pas manquer, avec un petit itinéraire rapide et des conseils pratiques.
 
 Immanquables (à visiter)
@@ -1125,7 +1125,7 @@ Souhaites‑tu :
 - un itinéraire plus détaillé (heures + adresses / restos recommandés) ?  
 - des options selon ton type de voyage (culture, gastronomie, photo, famille) ?
 
-Je peux te préparer un plan concret selon tes goûts et ton horaire.",Cholula | Ciudad de Puebla,,,
+Je peux te préparer un plan concret selon tes goûts et ton horaire.",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Sin destinos fuera de catálogo.
 03ff6998abdb,fr,gemini,Je vais à Puebla au Mexique pour un week-end. Qu'est-ce que je ne dois pas manquer ?,"Puebla est l’une des plus belles villes coloniales du Mexique et la véritable capitale gastronomique du pays. Pour un week-end (2 à 3 jours), voici l’itinéraire et les incontournables absolus pour ne rien manquer :
 
 ---
@@ -1168,7 +1168,7 @@ Vous ne pouvez pas repartir sans tester les spécialités locales :
 
 ### Conseils pratiques pour le week-end
 * **Climat et altitude :** Puebla se trouve à environ 2 150 mètres d'altitude. Les journées sont généralement agréables et ensoleillées, mais les soirées et matinées peuvent être fraîches. Pensez à bien vous hydrater.
-* **Déplacements :** Le centre historique se visite très bien à pied. Pour aller à Cholula, l’application Uber est simple, sûre et très économique.",Cholula,,,
+* **Déplacements :** Le centre historique se visite très bien à pied. Pour aller à Cholula, l’application Uber est simple, sûre et très économique.",Cholula,,Ciudad de Puebla,"Ciudad de Puebla es el destino principal (Capilla del Rosario, Zócalo, Catedral, Palafoxiana, Museo Amparo, Callejón de los Sapos, El Parián) y no fue detectada. Cholula como escapada recomendada. Fuera de catálogo (recomendado): Santa María Tonantzintla."
 ebb2d946e3e4,fr,gemini,Je suis voyagiste. Quelles destinations de l'État de Puebla inclurais-tu dans un circuit culturel de 5 jours ?,"Pour concevoir un circuit culturel de 5 jours dans l’État de Puebla équilibré, immersif et fluide en termes logistiques, l'idéal est de combiner **patrimoine colonial, syncrétisme religieux, racines préhispaniques et traditions vivantes**.
 
 Voici les destinations clés à inclure et une proposition d’itinéraire optimisée pour un public exigeant.
@@ -1237,7 +1237,7 @@ Si votre clientèle préfère éviter les routes de montagne ou limiter les tran
 
 ### Conseils pour voyagistes :
 1. **Saisonnalité :** De fin juillet à mi-septembre, mettez en avant la saison gastronomique des *Chiles en Nogada*. Pour la Toussaint, Huaquechula est mondialement réputée pour ses autels monumentaux de *Día de Muertos*.
-2. **Logistique :** Les routes de la Sierra Norte sont sinueuses mais bien entretenues ; privilégiez des minibus type Mercedes Sprinter plutôt que des grands autocars si vous optez pour Cuetzalan.",Cholula | Atlixco | Cuetzalan | Ciudad de Puebla | Zacatlán | Chignahuapan | Tehuacán,,,
+2. **Logistique :** Les routes de la Sierra Norte sont sinueuses mais bien entretenues ; privilégiez des minibus type Mercedes Sprinter plutôt que des grands autocars si vous optez pour Cuetzalan.",Cholula | Atlixco | Cuetzalan | Ciudad de Puebla | Zacatlán | Chignahuapan | Tehuacán,Tehuacán,,"Tehuacán se detectó solo por el nombre compuesto 'Réserve de biosphère Tehuacán-Cuicatlán' (variante del día 4), no como ciudad (Decisión 5). Reales: Ciudad de Puebla (base), Cholula, Atlixco, Cuetzalan, Zacatlán y Chignahuapan (opciones día 5). Fuera de catálogo (recomendados): Santa María Tonantzintla, San Francisco Acatepec, Yohualichan (Cuetzalan). Menciones breves (variante 'Rythme Doux'): Huaquechula, Cantona, Reserva Tehuacán-Cuicatlán."
 a25515b847dd,fr,gemini,Je suis voyagiste. Quelles destinations de l'État de Puebla inclurais-tu dans un circuit culturel de 5 jours ?,"Pour un circuit culturel de 5 jours dans l’État de Puebla, l’idéal est d’adopter une formule **en étoile depuis la ville de Puebla** (ou avec une seule nuit délocalisée). Cela évite les transferts quotidiens de bagages tout en offrant une diversité saisissante : splendeurs vice-royales, syncrétisme religieux, cités préhispaniques et sites classés à l'UNESCO.
 
 Voici les destinations et étapes clés à intégrer, articulées sous forme de trame technique :
@@ -1302,7 +1302,7 @@ Voici les destinations et étapes clés à intégrer, articulées sous forme de 
 3. **Périodes à privilégier :**
    * **Juillet à septembre :** Saison officielle du *Chile en Nogada* (argument fort pour les clientèles épicuriennes).
    * **Fin octobre / début novembre :** Pour les festivités du *Día de Muertos*.
-   * **Novembre à avril :** Climat sec et ensoleillé, idéal pour les visites pédestres.",Ciudad de Puebla | Cholula | Tehuacán | Atlixco | Cuetzalan,,,
+   * **Novembre à avril :** Climat sec et ensoleillé, idéal pour les visites pédestres.",Ciudad de Puebla | Cholula | Tehuacán | Atlixco | Cuetzalan,Cuetzalan,,"Cuetzalan solo aparece en el consejo 'à éviter' (3h30-4h de ruta por trayecto): mención negativa (Decisión 2). Tehuacán se conserva: el día 3 se titula 'Tehuacán & Zapotitlán Salinas'. Reales: Ciudad de Puebla, Cholula, Atlixco. Fuera de catálogo (recomendados): Zapotitlán Salinas, Reserva Tehuacán-Cuicatlán, Jardín Botánico Helia Bravo Hollis, Santa María Tonantzintla, San Francisco Acatepec, Huaquechula. Menciones breves: Cantona (variante), Tlaxcala (otro estado)."
 160445255713,fr,openai,"Quels villages (Pueblos Mágicos) visiter autour de Puebla, au Mexique ?","Bonne question — voici une sélection organisée des Pueblos Mágicos à visiter autour de Puebla (la ville), avec suggestions selon la proximité.
 
 Très proches (≈ ≤ 1 h depuis la ville de Puebla)
@@ -1323,7 +1323,7 @@ Souhaitez‑vous :
 - des suggestions d’excursion d’une journée depuis Puebla (itinéraires et horaires) ?  
 - ou des recommandations selon vos centres d’intérêt (gastronomie, randonnée, artisanat, fêtes) ?
 
-Je peux aussi préparer un itinéraire concret (durée, transport, points forts) selon vos préférences.",Ciudad de Puebla | Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Pahuatlán | Huauchinango | Tetela de Ocampo | Teziutlán | Tlatlauquitepec | Xicotepec,,,
+Je peux aussi préparer un itinéraire concret (durée, transport, points forts) selon vos préférences.",Ciudad de Puebla | Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Pahuatlán | Huauchinango | Tetela de Ocampo | Teziutlán | Tlatlauquitepec | Xicotepec,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de referencia de cercanía ('autour de Puebla', 'depuis la ville de Puebla') (Decisión 1). Los otros 12 son recomendaciones reales; Huauchinango, Tetela de Ocampo, Teziutlán, Tlatlauquitepec y Xicotepec aparecen agrupados en una sola línea (mención breve, se conservan). Sin destinos fuera de catálogo."
 122576e1904a,fr,gemini,"Quels villages (Pueblos Mágicos) visiter autour de Puebla, au Mexique ?","L'État de Puebla est l'un des plus riches du Mexique en **Pueblos Mágicos** (il en compte 12 au total). Selon le temps dont vous disposez et vos envies (excursion rapide à la journée ou escapade en montagne), voici une sélection des meilleurs villages à visiter autour de Puebla :
 
 ---
@@ -1375,7 +1375,7 @@ Considéré par beaucoup comme l'un des plus beaux *Pueblos Mágicos* de tout le
 
 ### Conseil pour organiser vos visites :
 * **En transport en commun :** Cholula (bus urbain ou taxi/Uber) et Atlixco (bus fréquents depuis la gare CAPU de Puebla) sont très faciles d'accès sans voiture.
-* **En voiture :** Pour la Sierra Norte (Zacatlán + Chignahuapan ou Cuetzalan), louer une voiture ou passer par une excursion guidée est fortement conseillé pour profiter des sites naturels disséminés dans la région. Prévoyez une nuit sur place pour éviter les longs trajets aller-retour dans la même journée.",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Pahuatlán | Tlatlauquitepec,,,
+* **En voiture :** Pour la Sierra Norte (Zacatlán + Chignahuapan ou Cuetzalan), louer une voiture ou passer par une excursion guidée est fortement conseillé pour profiter des sites naturels disséminés dans la région. Prévoyez une nuit sur place pour éviter les longs trajets aller-retour dans la même journée.",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Pahuatlán | Tlatlauquitepec,,,"Todos los destinos detectados son recomendaciones reales. Fuera de catálogo (recomendado): Santa María Tonantzintla. Atractivos dentro de los destinos: Yohualichan (Cuetzalan), Valle de Piedras Encimadas (Zacatlán), Cerro de San Miguel (Atlixco), Cerro Cabezón (Tlatlauquitepec)."
 10404080b6a7,fr,gemini,"Quels villages (Pueblos Mágicos) visiter autour de Puebla, au Mexique ?","L'État de Puebla compte **12 *Pueblos Mágicos*** officiels, ce qui en fait l'une des régions les plus riches du Mexique en termes de patrimoine, d'artisanat et de paysages.
 
 Selon le temps dont vous disposez, vous pouvez les diviser en deux catégories : **les villages tout proches** (faciles à faire à la journée depuis la capitale) et **ceux de la Sierra Norte** (parfaits pour un week-end au milieu de la brume, des cascades et des plantations de café).
@@ -1429,7 +1429,7 @@ Idéal à combiner le même jour ou week-end que Zacatlán.
 
 ### Résumé / Recommandations d'itinéraires :
 * **Si vous n'avez qu'une journée :** Combinez **Cholula** le matin (visite de la pyramide et églises) et **Atlixco** pour l'après-midi/dîner.
-* **Si vous avez un week-end :** Partez vers le nord pour faire le duo **Zacatlán + Chignahuapan**, ou consacrez deux jours entiers à **Cuetzalan** pour une immersion totale dans la nature et la culture indigène.",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec,,,
+* **Si vous avez un week-end :** Partez vers le nord pour faire le duo **Zacatlán + Chignahuapan**, ou consacrez deux jours entiers à **Cuetzalan** pour une immersion totale dans la nature et la culture indigène.",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec,,,"Todos los destinos detectados son recomendaciones reales. Fuera de catálogo (recomendado): Santa María Tonantzintla. Atractivos dentro de los destinos: Yohualichan (Cuetzalan), Valle de Piedras Encimadas (Zacatlán), Cerro Cabezón (Tlatlauquitepec), Cerro de San Miguel (Atlixco)."
 303bd027a5fe,fr,gemini,Je vais à Puebla au Mexique pour un week-end. Qu'est-ce que je ne dois pas manquer ?,"Puebla est l’une des plus belles villes coloniales du Mexique et sa véritable capitale gastronomique. Pour un week-end, son centre historique (classé à l’UNESCO) et la ville voisine de Cholula constituent la combinaison parfaite.
 
 Voici un itinéraire et les incontournables à ne surtout pas manquer :
@@ -1477,7 +1477,7 @@ Vous ne pouvez pas repartir sans tester les spécialités locales :
 ### Conseils pratiques
 * **Déplacements :** Le centre historique se visite très bien à pied. Pour aller à Cholula ou aux Fuertes, utilisez **Uber**, qui fonctionne très bien et ne coûte pas cher.
 * **Altitude :** Puebla se trouve à plus de **2 150 mètres** d'altitude. Pensez à bien vous hydrater.
-* **Météo :** Les journées sont souvent ensoleillées et douces, mais les matinées et les soirées peuvent être fraîches ; prévoyez une petite veste.",Cholula,,,
+* **Météo :** Les journées sont souvent ensoleillées et douces, mais les matinées et les soirées peuvent être fraîches ; prévoyez une petite veste.",Cholula,,Ciudad de Puebla,"Ciudad de Puebla es el destino principal (Zócalo, Catedral, Capilla del Rosario, Palafoxiana, Callejón de los Sapos, El Parián, Los Fuertes) y no fue detectada. Cholula como excursión recomendada. Sin destinos fuera de catálogo."
 3e75e9ac6c5f,fr,openai,Je vais à Puebla au Mexique pour un week-end. Qu'est-ce que je ne dois pas manquer ?,"Super — excellent choix pour un week‑end ! Voici ce que je recommande de ne pas manquer à Puebla, avec un petit itinéraire type, spécialités à goûter et conseils pratiques.
 
 Suggestions « incontournables »
@@ -1509,7 +1509,7 @@ Si vous voulez, je peux :
 - Réserver (ou suggérer) 2–3 restaurants pour essayer le meilleur mole et une cemita (je peux donner des options selon budget).  
 - Fournir cartes / trajets depuis votre hôtel (donnez‑moi l’adresse ou le quartier).
 
-Vous préférez plutôt art/musées, gastronomie ou marchés/photographie ? Je personnalise le week‑end en fonction de vos goûts.",Cholula,,,
+Vous préférez plutôt art/musées, gastronomie ou marchés/photographie ? Je personnalise le week‑end en fonction de vos goûts.",Cholula,,Ciudad de Puebla,"Ciudad de Puebla es el destino principal (Centro Histórico, Catedral, Palafoxiana, Capilla del Rosario, Museo Amparo, Callejón de los Sapos, Estrella de Puebla) y no fue detectada. Cholula como excursión recomendada. Sin destinos fuera de catálogo."
 b6db3d291559,fr,gemini,Je vais à Puebla au Mexique pour un week-end. Qu'est-ce que je ne dois pas manquer ?,"Un week-end à **Puebla** est une excellente idée : la ville combine l'une des architectures coloniales les plus riches d'Amérique latine, un artisanat réputé (la céramique *Talavera*) et ce qui est souvent considéré comme la meilleure gastronomie du Mexique.
 
 Voici un itinéraire idéal et les incontournables à ne pas manquer :
@@ -1557,7 +1557,7 @@ Puebla est la capitale culinaire du pays :
 
 ### 💡 Conseils pratiques
 * **Climat et altitude :** Puebla se trouve à environ 2 150 mètres d'altitude. Les journées sont souvent douces et ensoleillées, mais les soirées fraîches : prévoyez une veste pour la nuit.
-* **Déplacements :** Le centre historique se visite à pied. Pour aller à Cholula ou aux Fuertes, l'application Uber fonctionne très bien et reste très économique.",Cholula,,,
+* **Déplacements :** Le centre historique se visite à pied. Pour aller à Cholula ou aux Fuertes, l'application Uber fonctionne très bien et reste très économique.",Cholula,,Ciudad de Puebla,"Ciudad de Puebla es el destino principal (Capilla del Rosario, Catedral, Palafoxiana, Callejón de los Sapos, El Parián, Los Fuertes) y no fue detectada. Cholula como excursión recomendada. Fuera de catálogo (mención breve, opcional): Santa María Tonantzintla."
 0b054d20b510,ko,openai,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"멕시코 푸에블라(주도)에서 주말(1~2일)에 꼭 가볼만한 장소들과 간단 일정·팁을 정리해 드릴게요.
 
 주요 명소(간단 설명)
@@ -1587,7 +1587,7 @@ Puebla est la capitale culinaire du pays :
 원하시면:
 - 주말(토–일) 일정(시간대별)으로 세부 일정표 만들어 드리거나,
 - 숙소 위치(도심·앙헬로폴리스 등)에 맞춘 동선·맛집 추천을 해드릴게요.
-어떤 걸 더 도와드릴까요?",Cholula | Ciudad de Puebla,,,
+어떤 걸 더 도와드릴까요?",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo (opción secundaria): Africam Safari.
 d1e0f241bacd,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"멕시코 푸에블라(Puebla)는 스페인 식민지 시대의 아름다운 바로크 양식 건축물, 알록달록한 탈라베라(Talavera) 타일, 그리고 멕시코 최고의 미식으로 유명한 도시입니다. 주말(1박 2일 또는 2박 3일) 여행으로 핵심만 알차게 둘러볼 수 있는 **필수 명소**들을 정리해 드립니다.
 
 ---
@@ -1643,7 +1643,7 @@ d1e0f241bacd,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 �
 ### 💡 추천 주말 일정 요약
 
 * **1일 차:** 푸에블라 역사 지구 (소칼로 광장 & 대성당 → 로사리오 예배당 → 점심으로 몰레 맛보기 → 팔라폭시아나 도서관 → 개구리 골목 벼룩시장 & 카페)
-* **2일 차:** 촐룰라 반일 투어 (대피라미드 & 레메디오스 성당 뷰 → 촐룰라 센트로 점심) → 푸에블라 복귀 후 로레토 요새/케이블카 전망 감상 & 엘 파리안 시장 쇼핑",Cholula | Ciudad de Puebla,,,
+* **2일 차:** 촐룰라 반일 투어 (대피라미드 & 레메디오스 성당 뷰 → 촐룰라 센트로 점심) → 푸에블라 복귀 후 로레토 요새/케이블카 전망 감상 & 엘 파리안 시장 쇼핑",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Sin destinos fuera de catálogo.
 86f61f7b9b09,ko,openai,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"좋아요 — 푸에블라(멕시코)로 주말(금~일 또는 토~일) 여행을 가신다면 아래 장소들을 우선으로 추천합니다. 간단한 설명·이동·식사 팁과 예시 일정도 같이 드려요.
 
 핵심 명소(각 설명 뒤에 출처)
@@ -1677,7 +1677,7 @@ d1e0f241bacd,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 �
 
 원하시면 제가 도와드릴 수 있어요
 - 출발일(정확한 날짜)을 알려주시면: 하루별 상세 일정(시간대별), 추천 식당(예약 가능 여부), 이동 경로(대중교통/택시/렌터카 비교)를 바로 만들어 드릴게요.
-어떤 스타일의 여행을 원하세요? (음식·사진·역사·느긋한 카페투어 등)",Cholula | Ciudad de Puebla,,,
+어떤 스타일의 여행을 원하세요? (음식·사진·역사·느긋한 카페투어 등)",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo (recomendado si hay tiempo): Africam Safari.
 72184518a54e,ko,openai,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"푸에블라로 주말여행 — 꼭 가볼 곳과 간단 일정/팁을 정리해 드릴게요. (가벼운 도보 중심 1박·2일 일정 기준)
 
 핵심 명소 (짧은 설명)
@@ -1714,7 +1714,7 @@ d1e0f241bacd,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 �
 - 푸에블라에서 꼭 먹어야 할 식당(전통·가성비·특별식) 몇 곳을 추천해 드리거나,
 - 초룰라·아프리캄 사파리 같은 당일치기 옵션을 교통편(버스/택시/렌터카) 기준으로 자세히 안내해 드릴게요.
 
-어떤 도움을 더 원하세요? (예: 일정표 만들기 / 음식점 추천 / 박물관·입장료·영업시간 확인)",Cholula | Ciudad de Puebla | Atlixco,,,
+어떤 도움을 더 원하세요? (예: 일정표 만들기 / 음식점 추천 / 박물관·입장료·영업시간 확인)",Cholula | Ciudad de Puebla | Atlixco,Atlixco,,Atlixco no aparece en ninguna parte del texto: detección falsa. Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo (opción secundaria): Africam Safari.
 86425ef390da,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"푸에블라(Puebla)는 스페인 식민지 시대의 바로크 양식 건축물과 화려한 탈라베라(Talavera) 타일, 멕시코 최고의 미식으로 유명한 매력적인 도시입니다. 주말 여행(1박 2일 또는 2박 3일)으로 알차게 둘러볼 수 있는 **핵심 명소와 추천 동선**을 정리해 드립니다.
 
 ---
@@ -1770,7 +1770,7 @@ d1e0f241bacd,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 �
 
 ### 주말 여행 팁
 * 구시가지의 돌바닥(코블스톤)을 오래 걷게 되므로 **편안한 운동화**는 필수입니다.
-* 푸에블라는 해발 약 2,100m의 고지대이므로 낮에는 햇살이 따갑고 아침·저녁으로는 쌀쌀할 수 있어 **가벼운 겉옷**을 챙기시는 것이 좋습니다.",Cholula | Ciudad de Puebla,,,
+* 푸에블라는 해발 약 2,100m의 고지대이므로 낮에는 햇살이 따갑고 아침·저녁으로는 쌀쌀할 수 있어 **가벼운 겉옷**을 챙기시는 것이 좋습니다.",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo (recomendado): Santa María Tonantzintla.
 b316acfe8ef8,ko,gemini,저는 여행사 직원입니다. 멕시코 푸에블라주 5일 문화 패키지에 어떤 여행지를 넣으면 좋을까요?,"멕시코 푸에블라(Puebla)주는 유네스코 세계문화유산인 역사지구, 스페인-원주민 양식이 융합된 화려한 바로크 건축, 세계 최대 부피의 피라미드, 그리고 멕시코 미식의 본고장이라는 강력한 매력을 지니고 있습니다.
 
 여행사 상품 기획자의 관점에서 **'호텔 이동을 최소화(푸에블라 시내 4박 연박)하여 피로도를 낮추고, 문화·역사·미식·공예를 균형 있게 구성한 5일 문화 패키지 일정'**을 제안해 드립니다.
@@ -1831,7 +1831,7 @@ b316acfe8ef8,ko,gemini,저는 여행사 직원입니다. 멕시코 푸에블라�
    * 길거리 대표 샌드위치인 '세미타(Cemita)'부터 고급 파인다이닝까지 믹스하여 미식 스펙트럼을 넓혀주면 좋습니다.
 
 3. **안전성 강조**
-   * 푸에블라 역사지구와 촐룰라는 멕시코 내에서도 치안이 안정적이고 도보 인프라가 잘 정비된 대표적인 안전 여행지라는 점을 상품 소개서(USP)에 부각하면 모객에 큰 도움이 됩니다.",Cholula | Atlixco | Tehuacán | Ciudad de Puebla,,,
+   * 푸에블라 역사지구와 촐룰라는 멕시코 내에서도 치안이 안정적이고 도보 인프라가 잘 정비된 대표적인 안전 여행지라는 점을 상품 소개서(USP)에 부각하면 모객에 큰 도움이 됩니다.",Cholula | Atlixco | Tehuacán | Ciudad de Puebla,Tehuacán,,"Tehuacán se detectó solo por el nombre compuesto 'Reserva de la Biosfera Tehuacán-Cuicatlán' (opción B del día 4), no como ciudad (Decisión 5). Reales: Ciudad de Puebla (base de 4 noches), Cholula, Atlixco (opción A). Fuera de catálogo: Santa María Tonantzintla y San Francisco Acatepec (recomendados), Ex-Hacienda de Chautla (opción A), Reserva Tehuacán-Cuicatlán (opción B)."
 e945225d2b32,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸에블로 마히코)을 추천해 주세요.,"푸에블라(Puebla) 주에는 멕시코 정부가 지정한 매력적인 소도시인 **‘푸에블로 마히코(Pueblo Mágico)’**가 여러 곳 있습니다. 푸에블라 시내에서 이동하기 쉬운 가까운 곳부터, 자연과 토착 문화가 살아 숨 쉬는 근교 마을까지 추천해 드립니다.
 
 ---
@@ -1885,7 +1885,7 @@ e945225d2b32,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸
 ### 💡 여행 팁
 * **반나절~하루 가벼운 여행:** 이동 시간을 아끼고 싶다면 **촐룰라**나 **아틀릭스코**가 가장 좋습니다.
 * **멕시코 특유의 산골 풍경과 이색 문화:** 주말을 이용해 1박 일정으로 **사카틀란/치그나와판** 연계 코스나 **쿠에찰란**을 다녀오시는 것을 추천합니다.
-* **교통:** 촐룰라는 우버나 로컬 버스로 바로 갈 수 있으며, 그 외 마을들은 푸에블라의 메인 버스터미널인 **CAPU(Central de Autobuses de Puebla)**에서 출발하는 직행버스를 타면 편리합니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Ciudad de Puebla,,,
+* **교통:** 촐룰라는 우버나 로컬 버스로 바로 갈 수 있으며, 그 외 마을들은 푸에블라의 메인 버스터미널인 **CAPU(Central de Autobuses de Puebla)**에서 출발하는 직행버스를 타면 편리합니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Ciudad de Puebla,Ciudad de Puebla,,Ciudad de Puebla solo como punto de referencia de distancia y salida (terminal CAPU) (Decisión 1). Los otros 5 son recomendaciones reales. Sin destinos fuera de catálogo; atractivo dentro de Atlixco: Cerro de San Miguel.
 3fccf426447a,ko,gemini,저는 여행사 직원입니다. 멕시코 푸에블라주 5일 문화 패키지에 어떤 여행지를 넣으면 좋을까요?,"멕시코 푸에블라(Puebla)주는 유네스코 세계문화유산인 식민지 시대 건축, 마야·아즈텍 이전의 고대 문명, 독보적인 미식(몰레, 칠레 엔 노가다 등), 그리고 원주민 문화가 공존하는 멕시코 최고의 문화 관광지입니다.
 
 패키지 상품의 특성상 **숙소를 푸에블라 역사지구(Centro Histórico)에 두고 거점 이동(Hub-and-Spoke) 방식으로 동선을 짜는 4박 5일 일정**이 고객 피로도를 줄이고 상품성을 높이기에 가장 이상적입니다.
@@ -1958,7 +1958,7 @@ e945225d2b32,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸
 
 1. **시즌 특수 (7월~9월):** 멕시코 독립기념일 시즌에만 맛볼 수 있는 푸에블라의 상징 요리 **'칠레 엔 노가다(Chiles en Nogada)'** 제철입니다. 이 시즌에 미식 테마를 전면에 내세우면 모객 전환율이 매우 높습니다.
 2. **도자기 정품 인증(Denominación de Origen):** 푸에블라의 탈라베라 도자기는 멕시코 원산지 명칭 보호를 받습니다. 고객 쇼핑 시 가짜 기념품이 아닌 'Talavera Uriarte' 등 공인된 공방을 코스에 넣어 신뢰도를 높이세요.
-3. **고산 지대 대비 안내:** 푸에블라 시내(해발 약 2,130m)와 촐룰라는 고지대입니다. 첫날 일정은 과격한 도보보다는 시내 적응과 박물관 관람 위주로 완급을 조절하는 것이 고객 만족도에 좋습니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Tehuacán | Ciudad de Puebla,,,
+3. **고산 지대 대비 안내:** 푸에블라 시내(해발 약 2,130m)와 촐룰라는 고지대입니다. 첫날 일정은 과격한 도보보다는 시내 적응과 박물관 관람 위주로 완급을 조절하는 것이 고객 만족도에 좋습니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Tehuacán | Ciudad de Puebla,Tehuacán,,"Tehuacán se detectó solo por el nombre compuesto 'Valle/Reserva Tehuacán-Cuicatlán' (opción A del día 5), no como ciudad (Decisión 5). Reales: Ciudad de Puebla (base hub-and-spoke), Cholula, Atlixco, Zacatlán, Chignahuapan. Fuera de catálogo: Santa María Tonantzintla y San Francisco Acatepec (recomendados), Reserva Tehuacán-Cuicatlán (opción)."
 a2df8379ea8e,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸에블로 마히코)을 추천해 주세요.,"푸에블라(Puebla) 주와 그 인근에는 멕시코 정부가 지정한 매력적인 소도시인 **‘푸에블로 마히코(Pueblo Mágico)’**가 여러 곳 있습니다. 이동 시간과 특징에 맞춰 가기 좋은 대표적인 마을들을 추천해 드립니다.
 
 ---
@@ -2017,7 +2017,7 @@ a2df8379ea8e,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸
 ### 여행 팁
 * **가벼운 당일치기:** **촐룰라** (반나절~하루) 또는 **아틀릭스코** (오전 일찍 출발해 오후 복귀).
 * **주말 1박 2일 힐링:** 푸에블라의 선선한 산 공기를 느끼고 싶다면 **사카틀란 + 치그나와판** 코스를 추천합니다.
-* **대중교통:** 촐룰라는 시내에서 로컬 버스나 우버로 쉽게 갈 수 있고, 아틀릭스코·사카틀란·치그나와판은 푸에블라 메인 터미널인 **CAPU**에서 직행버스를 타면 편리하게 이동할 수 있습니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan,,,
+* **대중교통:** 촐룰라는 시내에서 로컬 버스나 우버로 쉽게 갈 수 있고, 아틀릭스코·사카틀란·치그나와판은 푸에블라 메인 터미널인 **CAPU**에서 직행버스를 타면 편리하게 이동할 수 있습니다.",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan,,,"Todos los destinos detectados son recomendaciones reales. Sin destinos fuera de catálogo; atractivos dentro de los destinos: Cerro de San Miguel (Atlixco), Mirador de Cristal (Zacatlán)."
 42bb94e71b95,ko,openai,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"좋아요 — 주말(2일) 일정 기준으로 푸에블라(시내)에서 “꼭 가봐야 할” 장소와 간단한 추천을 정리해드릴게요.
 
 1) 푸에블라 역사 지구(소칼로·대성당 등) — 식민지 시대 바로크 건축이 밀집한 구시가지로 UNESCO 세계유산에 등록된 곳입니다. 도보로 둘러보기 좋습니다. ([whc.unesco.org](https://whc.unesco.org/en/list/416?utm_source=openai))
@@ -2053,7 +2053,7 @@ a2df8379ea8e,ko,gemini,푸에블라 근처에서 가볼 만한 작은 마을(푸
 - 도착/출발 시간 알려주시면 2일(주말)용 상세 일정(식당·동선 포함) 만들어 드릴게요.
 - 혹시 ‘전통 타일(탈라베라) 공방 추천’이나 ‘몰레 맛집 리스트’ 원하시면 지역별·가격대별로 추천해 드립니다.
 
-어떻게 도와드릴까요?",Cholula | Ciudad de Puebla,,,
+어떻게 도와드릴까요?",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Sin destinos fuera de catálogo.
 bb6ad0ab95fd,ko,openai,저는 여행사 직원입니다. 멕시코 푸에블라주 5일 문화 패키지에 어떤 여행지를 넣으면 좋을까요?,"좋습니다 — 여행사 패키지용으로 바로 쓸 수 있는 '푸에블라 주 5일 문화 패키지' 샘플 일정과 추천지, 선택 옵션, 운영 팁을 아래에 정리했습니다. 원하시면 이 안을 바탕으로 화면(엑셀/인쇄용 PDF)용 일정표, 소요시간 표, 공급업체(가이드·택시·체험) 연락처 목록으로 다듬어 드리겠습니다.
 
 기본 제안
@@ -2114,7 +2114,7 @@ Day 5 — 주변 소도시(선택) 또는 라이트 액티비티 후 출발
 2) 하루 단위 상세 타임라인(시간·이동경로·예약처 포함) 작성.  
 3) 타깃(예: 한국인 단체)을 위한 안내문(한국어 가이드 스크립트·추천 문구·식단 안내) 제작.
 
-어떤 것을 먼저 도와드릴까요? 원하시는 타깃 고객(연령층·언어·예산)과, 패키지에 꼭 넣고 싶은 ‘포인트’(요리·공예·사진 포인트 등)를 알려주시면 바로 구체안으로 만들어 드리겠습니다.",Cholula | Atlixco | Huejotzingo | Ciudad de Puebla,,,
+어떤 것을 먼저 도와드릴까요? 원하시는 타깃 고객(연령층·언어·예산)과, 패키지에 꼭 넣고 싶은 ‘포인트’(요리·공예·사진 포인트 등)를 알려주시면 바로 구체안으로 만들어 드리겠습니다.",Cholula | Atlixco | Huejotzingo | Ciudad de Puebla,,,Ciudad de Puebla (base de hospedaje en el Centro Histórico) y Cholula son recomendaciones reales; Atlixco y Huejotzingo son opciones del día 5. Fuera de catálogo (opción C): Africam Safari.
 68ce728e1b90,ko,gemini,멕시코 푸에블라에 주말 여행을 가요. 꼭 가봐야 할 곳이 어디인가요?,"멕시코 푸에블라(Puebla)는 유네스코 세계문화유산으로 지정된 아름다운 식민지풍 건축물과 타일(탈라베라), 그리고 멕시코 최고의 미식으로 유명한 도시입니다. 주말 1박 2일 또는 2박 3일 일정으로 알차게 둘러볼 수 있는 **핵심 명소**를 정리해 드립니다.
 
 ---
@@ -2173,7 +2173,7 @@ Day 5 — 주변 소도시(선택) 또는 라이트 액티비티 후 출발
 * **2일차 (촐룰라 & 로컬 미식):**
   * 오전: 촐룰라로 이동 → 대피라미드 지하 터널 및 언덕 위 성당 방문 (화산 배경 사진 촬영)
   * 점심: 촐룰라 센트로 또는 푸에블라 로컬 시장에서 세미타(Cemita) 맛보기
-  * 오후: ‘단것의 거리’에서 전통 과자 쇼핑 후 마무리",Cholula | Ciudad de Puebla,,,
+  * 오후: ‘단것의 거리’에서 전통 과자 쇼핑 후 마무리",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Sin destinos fuera de catálogo.
 9bb5703241d1,zh,gemini,我是旅行社的产品经理，想设计墨西哥普埃布拉州五天的文化线路，你会包括哪些目的地？,"作为旅行社产品经理，设计普埃布拉州（Puebla）的五天文化线，核心策略在于**跳出单纯走马观花的“殖民城市游”，打造一条“前西班牙文明 ➔ 殖民巴洛克极盛 ➔ 原住民本土巴洛克融合 ➔ 活态高山土著文化与非遗手工艺”的文化层级递进线路**。
 
 普埃布拉州是墨西哥文化底蕴最厚重的地区之一，集合了美索美洲金字塔、两项联合国教科文组织（UNESCO）非遗（传统饮食与塔拉韦拉瓷器）以及独特的“原住民巴洛克”艺术。
@@ -2256,7 +2256,7 @@ Day 5 — 주변 소도시(선택) 또는 라이트 액티비티 후 출발
 ### 四、 备选替代方案（针对不同客群定位）
 *   **若客群偏年长、不喜山路车程**：
     *   可将 Day 3 - Day 4 的奎察兰替换为 **特万坎-奎卡特兰生物圈保护区（Tehuacán-Cuicatlán）**。
-    *   *卖点*：UNESCO 世界自然与文化双遗产，探访巨型仙人掌森林、史前人工运河系统以及**美索美洲玉米驯化起源地**、Zapotitlán Salinas 千年古法盐田。车程平缓且靠近高速公路，更适合高端慢节奏康养文化客群。",Cholula | Cuetzalan | Zacatlán | Tehuacán | Ciudad de Puebla,,,
+    *   *卖点*：UNESCO 世界自然与文化双遗产，探访巨型仙人掌森林、史前人工运河系统以及**美索美洲玉米驯化起源地**、Zapotitlán Salinas 千年古法盐田。车程平缓且靠近高速公路，更适合高端慢节奏康养文化客群。",Cholula | Cuetzalan | Zacatlán | Tehuacán | Ciudad de Puebla,Tehuacán,,"Tehuacán se detectó solo por el nombre compuesto 'Reserva de la Biosfera Tehuacán-Cuicatlán', alternativa para clientes mayores (incluye Zapotitlán Salinas), no como ciudad (Decisión 5). Reales: Ciudad de Puebla, Cholula, Cuetzalan, Zacatlán (día 5). Fuera de catálogo: Santa María Tonantzintla, San Francisco Acatepec, Yohualichan (recomendados); Reserva Tehuacán-Cuicatlán y Zapotitlán Salinas (alternativa)."
 0a5686844999,zh,openai,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"好——下面按离普埃布拉（普埃布拉市）距离和游玩类型给你推荐几处“Pueblos Mágicos”（魔幻小镇），并附一句看点与官方/权威来源说明，方便你挑选。
 
 最近、适合1日往返（≈≤1小时）
@@ -2280,7 +2280,7 @@ Day 5 — 주변 소도시(선택) 또는 라이트 액티비티 후 출발
 - 按出发地点（普埃布拉市哪个区/酒店）算路程与行程？  
 - 或告诉我你偏好（美食/自然/手工艺/节庆/摄影），我给你排一个1日或周末详细行程和交通建议。
 
-如果你想我也可以把每个小镇到普埃布拉市中心的车程/距离和推荐的交通方式（自驾/大巴/包车）列出来。你打算什么时候去？",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Huauchinango | Pahuatlán | Xicotepec | Tlatlauquitepec | Ciudad de Puebla,,,
+如果你想我也可以把每个小镇到普埃布拉市中心的车程/距离和推荐的交通方式（自驾/大巴/包车）列出来。你打算什么时候去？",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Huauchinango | Pahuatlán | Xicotepec | Tlatlauquitepec | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de referencia de distancia y origen (Decisión 1). Los otros 10 son recomendaciones reales; Huauchinango, Pahuatlán, Xicotepec y Tlatlauquitepec aparecen agrupados en una sola línea (mención breve, se conservan). Sin destinos fuera de catálogo; atractivo dentro de Zacatlán: cascadas de Tulimán."
 c516594c54ab,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"普埃布拉（Puebla）本身是墨西哥拥有最多“魔幻小镇”（Pueblos Mágicos）的州之一。根据距离远近和游玩风格，从**近郊当日往返**到**深入北部山区的两日游**，为你整理了最值得去的小镇：
 
 ---
@@ -2348,7 +2348,7 @@ c516594c54ab,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
 2. **周末度长假（2天1晚）**：
    * **路线 A（云雾与手作之旅）**：普埃布拉 → 萨卡特兰（看花钟、走玻璃栈道） → 奇尼亚瓦潘（买彩球、泡温泉） → 返回。
    * **路线 B（深度人文与自然之旅）**：普埃布拉 → 奎察兰（体验原住民集市、探访瀑布与咖啡庄园、宿山间客栈）。
-3. **衣着提醒**：北部山区（奎察兰、萨卡特兰等）海拔较高且多雨雾，气候多变，即便夏季也建议随身备一件**防风保暖外套和雨伞**。",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec | Ciudad de Puebla,,,
+3. **衣着提醒**：北部山区（奎察兰、萨卡特兰等）海拔较高且多雨雾，气候多变，即便夏季也建议随身备一件**防风保暖外套和雨伞**。",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Tlatlauquitepec | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de referencia de distancia y origen (Decisión 1). Los otros 7 son recomendaciones reales. Fuera de catálogo (recomendado, otro estado): Huamantla (Tlaxcala). Atractivos dentro de los destinos: Cerro de San Miguel (Atlixco), Mirador de Cristal (Zacatlán), Cerro Cabezón (Tlatlauquitepec)."
 1a745646dd1d,zh,openai,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"好——下面列出从普埃布拉（Puebla）出发「值得去的魔幻小镇 / Pueblo Mágico」，按路程远近分组并写出主要看点，方便你挑选日游或周末行程。
 
 一小时左右（适合当天来回）
@@ -2368,7 +2368,7 @@ c516594c54ab,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
 - 帮你规划一天或周末行程（含交通、必吃小吃、景点顺序）。  
 - 若你偏好“自然瀑布/登山”“美食/市集”“节庆/民俗”其中一种，我可以依此优先推荐。
 
-你更倾向哪种类型的行程？（日游/周末、喜欢自然或美食或节庆）",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Ciudad de Puebla,,,
+你更倾向哪种类型的行程？（日游/周末、喜欢自然或美食或节庆）",Cholula | Atlixco | Huejotzingo | Cuetzalan | Zacatlán | Chignahuapan | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de origen/referencia ('从普埃布拉出发') (Decisión 1). Los otros 6 son recomendaciones reales. Fuera de catálogo (recomendado, otro estado): San Juan Ixtenco / Ixtenco (Tlaxcala)."
 93261c54e27f,zh,gemini,我要去墨西哥普埃布拉过周末，有哪些地方不能错过？,"普埃布拉（Puebla）是墨西哥最具殖民风情和文化底蕴的城市之一，以精美的巴洛克建筑、彩色塔拉韦拉彩陶（Talavera）和享誉全球的美食闻名。度过一个充实愉快的周末，以下是**绝对不能错过的核心景点与体验**：
 
 ---
@@ -2430,7 +2430,7 @@ c516594c54ab,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
 * **周日：火山奇景与甜点采购**
   * 上午：前往乔卢拉（Cholula），登顶金字塔教堂远眺火山
   * 午餐：在乔卢拉广场或回老城吃一次爆浆 Cemita 三明治
-  * 下午：逛糖果街（Calle 6 Oriente）采买伴手礼，启程返程",Cholula | Ciudad de Puebla,,,
+  * 下午：逛糖果街（Calle 6 Oriente）采买伴手礼，启程返程",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Sin destinos fuera de catálogo.
 bed8f53daed1,zh,openai,我要去墨西哥普埃布拉过周末，有哪些地方不能错过？,"太好了——普埃布拉（Puebla）是个周末游非常合适的城市：保存完好的殖民老城、著名的美食（mole poblano、cemitas、各类传统甜点）、以及附近的乔卢拉（Cholula）大金字塔与色彩教堂都很值得一去。下面给你一个“必去清单 + 周末 2 天行程建议 + 实用小贴士”，方便你安排。
 
 必去景点（不容错过）
@@ -2469,7 +2469,7 @@ bed8f53daed1,zh,openai,我要去墨西哥普埃布拉过周末，有哪些地方
 1) 如果你给我说具体周末是哪两天（具体日期），我可以帮你查当时博物馆是否有特殊展览、餐厅是否有座位、周末市场是否在（有时节假日会调整），并给出更精确的时间安排。  
 2) 想要我按“懒人版”（以轻松漫游为主）或“深度版”（想把博物馆、教堂、工坊都看细致）做一份按分钟/小时的行程表吗？你打算周末住哪（老城/Angelópolis/Cholula）也会影响最佳路线——告诉我你的偏好，我就按你的节奏细化行程。
 
-要我先帮你把某家餐厅或博物馆在你出发当日的开放情况和是否需预约查一下吗？",Cholula | Ciudad de Puebla,,,
+要我先帮你把某家餐厅或博物馆在你出发当日的开放情况和是否需预约查一下吗？",Cholula | Ciudad de Puebla,,,"Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo: Santa María Tonantzintla y San Francisco Acatepec (recomendados), Africam Safari (extensión opcional)."
 58b6db28d1dc,zh,openai,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"好——下面列出普埃布拉（Puebla，市区）附近比较值得去的“Pueblos Mágicos”（魔幻小镇），并按距离/车程做简单分组与亮点提示，方便你安排行程。信息来自州/市官方与当地旅游报道。若你要我把某几处做成一日游或周末行程，我可以再帮你排详细路线和时间表。
 
 快速清单（普埃布拉州被认定的 Pueblos Mágicos，常见列法）：Atlixco、Cholula（San Pedro / San Andrés）、Chignahuapan、Cuetzalan del Progreso、Huauchinango、Huejotzingo、Pahuatlán、Tetela de Ocampo、Teziutlán、Tlatlauquitepec、Xicotepec de Juárez、Zacatlán。([visitpuebla.mx](https://www.visitpuebla.mx/es/pueblos-magicos-de-puebla?utm_source=openai))
@@ -2498,7 +2498,7 @@ bed8f53daed1,zh,openai,我要去墨西哥普埃布拉过周末，有哪些地方
 要我帮你做什么接下来？（请选择一项）  
 1) 根据你有多少天，帮你排 1 日或 2 天行程；  
 2) 给出每个镇的必看景点与推荐餐厅/民宿；  
-3) 帮你查具体交通（客运时间表、租车路线或票价）。",Atlixco | Cholula | Chignahuapan | Cuetzalan | Huauchinango | Huejotzingo | Pahuatlán | Tetela de Ocampo | Teziutlán | Tlatlauquitepec | Xicotepec | Zacatlán | Ciudad de Puebla,,,
+3) 帮你查具体交通（客运时间表、租车路线或票价）。",Atlixco | Cholula | Chignahuapan | Cuetzalan | Huauchinango | Huejotzingo | Pahuatlán | Tetela de Ocampo | Teziutlán | Tlatlauquitepec | Xicotepec | Zacatlán | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de origen/referencia ('从普埃布拉市出发', 'Puebla, 市区') (Decisión 1). Los otros 12 son recomendaciones reales; Teziutlán, Tlatlauquitepec, Xicotepec y Huauchinango aparecen agrupados en una sola línea, y Pahuatlán y Tetela de Ocampo en otra (menciones breves, se conservan). Sin destinos fuera de catálogo."
 820c71a49fe7,zh,openai,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"普埃布拉（Puebla）附近有很多被列为「Pueblos Mágicos」（魔幻小镇 / 魔法小镇）的城镇，各有不同风情——山林雾气、花卉小镇、石头教堂、手工艺与美食都很吸引人。下面列出离普埃布拉市较近、最值得去的几个小镇（每项后我都附上官方或权威资料来源），并给出特色与大致车程参考 —— 你想要的话我可以把其中的行程排成一日游或周末游。
 
 推荐小镇（按常见受欢迎度排序）
@@ -2533,7 +2533,7 @@ bed8f53daed1,zh,openai,我要去墨西哥普埃布拉过周末，有哪些地方
 - 根据你在普埃布拉的具体出发点和停留时间，帮你做 1 日或 2 天行程？（可含交通路线、建议景点、吃喝与住宿）  
 - 或者帮你查某个小镇当前的活动/节庆、公共交通班次或徒步/瀑布路线的详细信息？
 
-你想先看哪种行程或先选几个小镇让我帮你排路线？",Cholula | Atlixco | Cuetzalan | Zacatlán | Chignahuapan | Pahuatlán | Huauchinango | Xicotepec | Tlatlauquitepec | Ciudad de Puebla,,,
+你想先看哪种行程或先选几个小镇让我帮你排路线？",Cholula | Atlixco | Cuetzalan | Zacatlán | Chignahuapan | Pahuatlán | Huauchinango | Xicotepec | Tlatlauquitepec | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de origen/referencia (Decisión 1). Los otros 9 son recomendaciones reales; Huauchinango, Xicotepec y Tlatlauquitepec aparecen agrupados en un solo punto (mención breve, se conservan). Sin destinos fuera de catálogo."
 b2b9ec0aba6d,zh,gemini,我要去墨西哥普埃布拉过周末，有哪些地方不能错过？,"普埃布拉（Puebla）是墨西哥的文化与美食之都，距离墨西哥城仅约2小时车程。这里拥有被联合国教科文组织列为世界遗产的殖民老城、极致奢华的巴洛克教堂、独特的塔拉韦拉（Talavera）彩陶，以及全墨最顶级的传统美食。
 
 过周末（2-3天）时间非常充裕，以下是**绝对不能错过的核心景点与体验**：
@@ -2595,7 +2595,7 @@ b2b9ec0aba6d,zh,gemini,我要去墨西哥普埃布拉过周末，有哪些地方
   * **早晨**：打 Uber 前往乔卢拉（约20-30分钟）。
   * **上午**：登顶乔卢拉金字塔，参观补救圣母教堂，遥望活火山；逛逛乔卢拉色彩丰富的小镇街道（Zócalo de Cholula）。
   * **中午**：在乔卢拉吃一顿 Cemita 或在金字塔脚下的集市享用传统小吃。
-  * **下午**：返程普埃布拉，如果还有时间，可去打卡伊东丰雄设计的**国际巴洛克博物馆（Museo Internacional del Barroco）**感受现代建筑美学，然后结束愉快的周末行程。",Cholula | Ciudad de Puebla,,,
+  * **下午**：返程普埃布拉，如果还有时间，可去打卡伊东丰雄设计的**国际巴洛克博物馆（Museo Internacional del Barroco）**感受现代建筑美学，然后结束愉快的周末行程。",Cholula | Ciudad de Puebla,,,Ciudad de Puebla y Cholula son recomendaciones reales. Fuera de catálogo (opcional con coche): Santa María Tonantzintla y San Francisco Acatepec.
 f0f46459284f,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"普埃布拉州（Puebla）是墨西哥“魔幻小镇”（Pueblo Mágico）数量最多的州之一。从小镇距离普埃布拉市的远近和旅行体验来看，可以分为**近郊半日/一日游**和**北部山区（Sierra Norte）深度游**两大部分，另外还有邻近特拉斯卡拉州（Tlaxcala）的宝藏小镇。
 
 以下是普埃布拉附近最值得推荐的魔幻小镇：
@@ -2673,7 +2673,7 @@ f0f46459284f,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
 ### 💡 出行建议：
 * **如果时间只有半天至一天**：首选 **Cholula**（人文/历史/餐饮）或 **Atlixco**（观景/花卉/度假感）。
 * **如果有一个周末（2天1晚）**：建议自驾或拼车前往 **Zacatlán + Chignahuapan** 环线，沿途既能看峡谷温泉，又能买手工艺品；如果偏爱原生态自然风光与土著文化，直奔 **Cuetzalan** 留宿一晚是最佳选择。
-* **交通提示**：前往 Cholula 可直接叫 Uber；去 Atlixco 或北部山区小镇，可在普埃布拉 CAPU 长途客运站搭乘直达大巴（如 ATAH、VÍA 等公司），自驾游玩北部山区更自由，但雨季行车需注意山路雾气。",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla,,,
+* **交通提示**：前往 Cholula 可直接叫 Uber；去 Atlixco 或北部山区小镇，可在普埃布拉 CAPU 长途客运站搭乘直达大巴（如 ATAH、VÍA 等公司），自驾游玩北部山区更自由，但雨季行车需注意山路雾气。",Cholula | Atlixco | Zacatlán | Chignahuapan | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de origen/referencia de distancia (Decisión 1). Los otros 6 son recomendaciones reales. Fuera de catálogo: Huamantla (Tlaxcala, recomendado). Atractivos dentro de los destinos: Santa María Tonantzintla (zona Cholula), Cerro de San Miguel (Atlixco), Cerro Cabezón (Tlatlauquitepec)."
 cb08c50b5571,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小镇）？,"普埃布拉州（Puebla）是墨西哥拥有“魔幻小镇”（Pueblo Mágico）最多的州之一。根据距离普埃布拉市的远近和旅行偏好，可以分为**“近郊轻松一日游”**和**“北部山区（Sierra Norte）深度度假”**两大类：
 
 ---
@@ -2751,7 +2751,7 @@ cb08c50b5571,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
 
 ### 行程建议：
 * **时间紧凑（1天）**：**乔卢拉 (Cholula)** 上午看金字塔和教堂，下午转战 **阿特利斯科 (Atlixco)** 赏花吃冰淇淋，傍晚回普埃布拉。
-* **周末2天1晚**：自驾前往北部山区的 **Zacatlán + Chignahuapan**，周六看玻璃栈道、尝苹果酒，周日泡温泉、买手工艺品后回程。",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla,,,
+* **周末2天1晚**：自驾前往北部山区的 **Zacatlán + Chignahuapan**，周六看玻璃栈道、尝苹果酒，周日泡温泉、买手工艺品后回程。",Cholula | Atlixco | Huejotzingo | Zacatlán | Chignahuapan | Cuetzalan | Tlatlauquitepec | Ciudad de Puebla,Ciudad de Puebla,,"Ciudad de Puebla solo como punto de origen/referencia de distancia (Decisión 1). Los otros 7 son recomendaciones reales. Fuera de catálogo: Huamantla (Tlaxcala, recomendado). Atractivos dentro de los destinos: Valle de Piedras Encimadas (Zacatlán), Cerro de San Miguel (Atlixco), Cerro Cabezón (Tlatlauquitepec)."
 55b533e3c7ed,zh,gemini,我是旅行社的产品经理，想设计墨西哥普埃布拉州五天的文化线路，你会包括哪些目的地？,"作为旅行社产品经理，设计一条**5天4晚的普埃布拉州（Puebla）文化主题线路**，最核心的策略是：**“以巴洛克艺术与世界遗产为底盘，以前哥伦布文明为纵深，以原住民融合手工艺与原产地美食为体验支点”**。
 
 普埃布拉州文化资源极为丰富，建议采用**“双城核心（普埃布拉+乔卢拉）+ 北部高地原住民秘境或南部风土”**的结构。
@@ -2827,4 +2827,4 @@ cb08c50b5571,zh,gemini,普埃布拉附近有哪些值得去的小镇（魔幻小
     *   不仅是“吃”，而是呈现“修女在修道院融合旧世界香料与新世界辣椒发明Mole”的历史背景。
     *   如果成团时间在**7月中旬至9月**，主打**“Chiles en Nogada（核桃酱冷肉酿青椒）”**原产地应季限定品尝（这道菜正是普埃布拉修女为庆祝墨西哥独立而创作的国菜）。
 3.  **文化反差感（Contrast）设计**：
-    *   从普埃布拉城内极其奢华、严谨的天主教巴洛克，切换到托南钦特拉原住民天马行空的“土著巴洛克”，最后沉浸到库埃特萨兰前哥伦布活态文化，层次丰富且绝不审美疲劳。",Cholula | Cuetzalan | Atlixco | Ciudad de Puebla,,,
+    *   从普埃布拉城内极其奢华、严谨的天主教巴洛克，切换到托南钦特拉原住民天马行空的“土著巴洛克”，最后沉浸到库埃特萨兰前哥伦布活态文化，层次丰富且绝不审美疲劳。",Cholula | Cuetzalan | Atlixco | Ciudad de Puebla,,,"Ciudad de Puebla, Cholula y Cuetzalan son recomendaciones reales; Atlixco aparece como opción de reemplazo de los días 4-5. Fuera de catálogo: Santa María Tonantzintla, San Francisco Acatepec y Yohualichan (recomendados); Tecali de Herrera (alternativa)."
